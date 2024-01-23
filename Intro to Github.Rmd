@@ -1,0 +1,13 @@
+---
+title: "Intro to Git"
+author: "Michelle LaFlamme"
+date: "2024-01-23"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Github
+
