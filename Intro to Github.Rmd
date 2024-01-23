@@ -17,3 +17,8 @@ Making changes
 #Create new section
 
 *bold text*
+Push to Github
+
+#New section
+Here is the new section with new text
+Text in new branch 
