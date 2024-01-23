@@ -12,3 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Github
 
 Adding text to the document
+Making changes
+
+#Create new section
+
+*bold text*
