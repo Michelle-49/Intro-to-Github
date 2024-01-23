@@ -21,4 +21,5 @@ Push to Github
 
 #New section
 Here is the new section with new text
-Text in new branch 
+Making changes
+Adding text to the new branch
