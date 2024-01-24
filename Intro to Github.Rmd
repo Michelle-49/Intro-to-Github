@@ -14,11 +14,27 @@ knitr::opts_chunk$set(echo = TRUE)
 Adding text to the document
 Making changes
 
-#Create new section
+## Create new section
 
-*bold text*
-Push to Github
+**bold text**
 
-#New section
+
+## New section
 Here is the new section with new text
-Text in new branch 
+Making changes
+Adding text to the new branch
+
+## Plot section
+
+Load the palmerpenguins data
+```{r}
+library(palmerpenguins)
+```
+
+Create a linear regression
+```{r, fig.cap = "bill length vs flipper length"}
+
+bill_flipper_model <- lm(bill_length_mm ~ flipper_length_mm, data = penguins)
+summary(bill_flipper_model)
+plot(bill_flipper_model)
+```
